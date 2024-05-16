@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007.03.28 21:15:09.218.pas,C:\Dokumente und Einstellungen\Gandalf\Eigene Dateien\Borland Studio-Projekte\Unit1.pas=C:\MyProgis\HelpWriter2\Unit1.pas</Transaction>
+    <Transaction>2007.03.28 21:15:09.218.dfm,C:\Dokumente und Einstellungen\Gandalf\Eigene Dateien\Borland Studio-Projekte\Unit1.dfm=C:\MyProgis\HelpWriter2\Unit1.dfm</Transaction>
+    <Transaction>2007.04.03 15:04:50.921.pas,C:\MyProgis\HelpWriter2\Unit2.pas=C:\MyProgis\HelpWriter2\NeuerDatensatz.pas</Transaction>
+    <Transaction>2007.04.03 15:04:50.921.dfm,C:\MyProgis\HelpWriter2\Unit2.dfm=C:\MyProgis\HelpWriter2\NeuerDatensatz.dfm</Transaction>
+    <Transaction>2007.04.12 00:50:23.109.pas,C:\MyProgis\HelpWriter2\Unit3.pas=C:\MyProgis\HelpWriter2\Verzeichnis.pas</Transaction>
+    <Transaction>2007.04.12 00:50:23.109.dfm,C:\MyProgis\HelpWriter2\Unit3.dfm=C:\MyProgis\HelpWriter2\Verzeichnis.dfm</Transaction>
+    <Transaction>2007.04.29 00:16:35.031.pas,C:\MyProgis\HelpWriter2\HW2_Prog\Unit3.pas=C:\MyProgis\HelpWriter2\HW2_Prog\Schluessel.pas</Transaction>
+    <Transaction>2007.04.29 00:16:35.031.dfm,C:\MyProgis\HelpWriter2\HW2_Prog\Unit3.dfm=C:\MyProgis\HelpWriter2\HW2_Prog\Schluessel.dfm</Transaction>
+    <Transaction>2007.05.05 17:28:16.843.pas,C:\MyProgis\HelpWriter2\HW2_Prog\PassWord.pas=C:\MyProgis\HelpWriter2\HW2_Prog\Code.pas</Transaction>
+    <Transaction>2007.05.05 17:28:16.843.dfm,C:\MyProgis\HelpWriter2\HW2_Prog\PassWord.dfm=C:\MyProgis\HelpWriter2\HW2_Prog\Code.dfm</Transaction>
+    <Transaction>2007.05.21 21:41:30.218.pas,C:\MyProgis\HelpWriter2\HW2_Prog\Unit3.pas=C:\MyProgis\HelpWriter2\HW2_Prog\Code_Selection.pas</Transaction>
+    <Transaction>2007.05.21 21:41:30.218.dfm,C:\MyProgis\HelpWriter2\HW2_Prog\Unit3.dfm=C:\MyProgis\HelpWriter2\HW2_Prog\Code_Selection.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

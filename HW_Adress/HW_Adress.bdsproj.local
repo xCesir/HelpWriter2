@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007.04.15 00:21:02.125.pas,C:\Dokumente und Einstellungen\Gandalf\Eigene Dateien\Borland Studio-Projekte\Unit1.pas=C:\MyProgis\HelpWriter2\HW_Adress\Adress.pas</Transaction>
+    <Transaction>2007.04.15 00:21:02.125.dfm,C:\Dokumente und Einstellungen\Gandalf\Eigene Dateien\Borland Studio-Projekte\Unit1.dfm=C:\MyProgis\HelpWriter2\HW_Adress\Adress.dfm</Transaction>
+    <Transaction>2007.04.16 09:08:39.968.pas,C:\MyProgis\HelpWriter2\HW_Adress\Unit3.pas=C:\MyProgis\HelpWriter2\HW_Adress\SUCHEN2.pas</Transaction>
+    <Transaction>2007.04.16 09:08:39.968.dfm,C:\MyProgis\HelpWriter2\HW_Adress\Unit3.dfm=C:\MyProgis\HelpWriter2\HW_Adress\SUCHEN2.dfm</Transaction>
+    <Transaction>2007.04.20 17:44:43.015.pas,C:\MyProgis\HelpWriter2\HW_Adress\Unit4.pas=C:\MyProgis\HelpWriter2\HW_Adress\Hilfe.pas</Transaction>
+    <Transaction>2007.04.20 17:44:43.015.dfm,C:\MyProgis\HelpWriter2\HW_Adress\Unit4.dfm=C:\MyProgis\HelpWriter2\HW_Adress\Hilfe.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
